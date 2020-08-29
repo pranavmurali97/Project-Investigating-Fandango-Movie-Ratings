@@ -1,2 +1,2 @@
 # Project-Investigating-Fandango-Movie-Ratings
-Using Python and analysing the movie dataset, deducing the reason behind Fandango movie ratings and their differences year-on-year.
+Using Python and analysing the movie dataset, deducing the reason behind Fandango movie ratings and their differences year-on-year. Steps included isolating columns in need for our results, truncating the results, changing the goal of analysis and finally isolating the samples in need. Also, distribution graphs and frequency distributions have been carried out to further confirm the findings.
